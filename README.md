@@ -8,6 +8,19 @@ The Quiz Android App also allows users to compete with friends and family throug
 
 Overall, the Quiz Android App is a versatile and user-friendly application that provides a fun and effective way to test and improve your knowledge on various subjects.
 
+
+## Screenshots of Project
+
+
+![Screenshot 2023-05-14 110218](https://github.com/adityazanzane/quiz_app/assets/91719677/aadbc6e5-0f64-4c15-ab7c-2ddfc54fa051)
+![Screenshot 2023-05-14 110245](https://github.com/adityazanzane/quiz_app/assets/91719677/68368f7c-913d-43f7-9f0e-b1663a246ea7)
+![Screenshot 2023-05-14 110318](https://github.com/adityazanzane/quiz_app/assets/91719677/96233981-29ec-42f4-8079-7ed11f774599)
+
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
